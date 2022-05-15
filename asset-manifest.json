@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.33286bdc.css",
-    "main.js": "/static/js/main.2efcb597.js",
-    "static/media/yea-boi.mp4": "/static/media/yea-boi.172e4ccd08bdb7523e4a.mp4",
-    "static/media/starting-page-background.png": "/static/media/starting-page-background.9303e3e34b50014a731c.png",
-    "index.html": "/index.html",
-    "main.33286bdc.css.map": "/static/css/main.33286bdc.css.map",
-    "main.2efcb597.js.map": "/static/js/main.2efcb597.js.map"
+    "main.css": "/ScrollingApp/static/css/main.8ff6a63b.css",
+    "main.js": "/ScrollingApp/static/js/main.269d9df4.js",
+    "static/media/yea-boi.mp4": "/ScrollingApp/static/media/yea-boi.172e4ccd08bdb7523e4a.mp4",
+    "static/media/starting-page-background.png": "/ScrollingApp/static/media/starting-page-background.9303e3e34b50014a731c.png",
+    "index.html": "/ScrollingApp/index.html",
+    "main.8ff6a63b.css.map": "/ScrollingApp/static/css/main.8ff6a63b.css.map",
+    "main.269d9df4.js.map": "/ScrollingApp/static/js/main.269d9df4.js.map"
   },
   "entrypoints": [
-    "static/css/main.33286bdc.css",
-    "static/js/main.2efcb597.js"
+    "static/css/main.8ff6a63b.css",
+    "static/js/main.269d9df4.js"
   ]
 }
