@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/ScrollingApp/static/css/main.8ff6a63b.css",
-    "main.js": "/ScrollingApp/static/js/main.269d9df4.js",
+    "main.css": "/ScrollingApp/static/css/main.b31172b9.css",
+    "main.js": "/ScrollingApp/static/js/main.46c549c5.js",
     "static/media/yea-boi.mp4": "/ScrollingApp/static/media/yea-boi.172e4ccd08bdb7523e4a.mp4",
+    "static/media/spices-3.png": "/ScrollingApp/static/media/spices-3.47f92da06a81a34ea11b.png",
+    "static/media/result.png": "/ScrollingApp/static/media/result.b5b2be66f8646dfd9be1.png",
+    "static/media/spices-2.png": "/ScrollingApp/static/media/spices-2.ae16d1e662cce5c1666d.png",
+    "static/media/spices-1.png": "/ScrollingApp/static/media/spices-1.13aad29eeb1faf87f3ba.png",
     "static/media/starting-page-background.png": "/ScrollingApp/static/media/starting-page-background.9303e3e34b50014a731c.png",
     "index.html": "/ScrollingApp/index.html",
-    "main.8ff6a63b.css.map": "/ScrollingApp/static/css/main.8ff6a63b.css.map",
-    "main.269d9df4.js.map": "/ScrollingApp/static/js/main.269d9df4.js.map"
+    "main.b31172b9.css.map": "/ScrollingApp/static/css/main.b31172b9.css.map",
+    "main.46c549c5.js.map": "/ScrollingApp/static/js/main.46c549c5.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ff6a63b.css",
-    "static/js/main.269d9df4.js"
+    "static/css/main.b31172b9.css",
+    "static/js/main.46c549c5.js"
   ]
 }
