@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.33286bdc.css",
+    "main.js": "/static/js/main.2efcb597.js",
+    "static/media/yea-boi.mp4": "/static/media/yea-boi.172e4ccd08bdb7523e4a.mp4",
+    "static/media/starting-page-background.png": "/static/media/starting-page-background.9303e3e34b50014a731c.png",
+    "index.html": "/index.html",
+    "main.33286bdc.css.map": "/static/css/main.33286bdc.css.map",
+    "main.2efcb597.js.map": "/static/js/main.2efcb597.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33286bdc.css",
+    "static/js/main.2efcb597.js"
+  ]
+}
