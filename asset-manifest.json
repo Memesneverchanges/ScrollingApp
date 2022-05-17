@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ScrollingApp/static/css/main.d3e6bb0b.css",
+    "main.css": "/ScrollingApp/static/css/main.e9f47a45.css",
     "main.js": "/ScrollingApp/static/js/main.a22c35d1.js",
     "static/media/yea-boi.mp4": "/ScrollingApp/static/media/yea-boi.172e4ccd08bdb7523e4a.mp4",
     "static/media/spices-3.png": "/ScrollingApp/static/media/spices-3.47f92da06a81a34ea11b.png",
@@ -9,11 +9,11 @@
     "static/media/spices-1.png": "/ScrollingApp/static/media/spices-1.13aad29eeb1faf87f3ba.png",
     "static/media/starting-page-background.png": "/ScrollingApp/static/media/starting-page-background.9303e3e34b50014a731c.png",
     "index.html": "/ScrollingApp/index.html",
-    "main.d3e6bb0b.css.map": "/ScrollingApp/static/css/main.d3e6bb0b.css.map",
+    "main.e9f47a45.css.map": "/ScrollingApp/static/css/main.e9f47a45.css.map",
     "main.a22c35d1.js.map": "/ScrollingApp/static/js/main.a22c35d1.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3e6bb0b.css",
+    "static/css/main.e9f47a45.css",
     "static/js/main.a22c35d1.js"
   ]
 }
